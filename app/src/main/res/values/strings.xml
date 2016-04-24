@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Si Rot13</string>
+    <string name="action_settings">Settings</string>
+    <string name="nm">Pembelajaran Metode Rot13</string>
+    <string name="game">Main Game Dengan Rot13</string>
+    <string name="belajar">Belajar Materi EnDes Rot13</string>
+    <string name="tentangrot13">Tentang Metode EnDes Rot 13</string>
+    <string name="duel">Duel Rot13 Dengan Teman</string>
+    <string name="m">Masukan kata untuk di enkripsi Rot13</string>
+    <string name="md">Hasil kata di Enkripsi Rot13</string>
+    <string name="b">Lihat Proses Enkripsi</string>
+    <string name="d">Chating Dengan Metode Rot13</string>
+    <string name="s">Update Status Facebook Dengan Rot13</string>
+    <string name="g">Enkripsi Gambar Dengan Metode Rot13</string>
+    <string name="bd">Lihat Proses Deskripsi</string>
+
+    <string name="r">A-N  ,  B-O  ,  C-P  ,  D-Q  ,  E-R  ,  F-S  ,  G-T  ,  H-U  ,  I-V  ,  J-W  ,  K-X  ,  L-Y  ,  M-Z  ,  N-A  ,  O-B  ,  P-C  ,  Q-D  ,  R-E  ,  S-F  ,  T-G  ,  U-H  ,  V-I  ,  W-J  ,  X-K  ,  Y-L  ,  Z-M    </string>
+
+</resources>
